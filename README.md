@@ -1,4 +1,4 @@
-# 🏡 WanderStay – Full-Stack Property Booking Platform
+# 🏡 WanderLust – Full-Stack Property Booking Platform
 
 A full-stack web application inspired by Airbnb, enabling users to list, discover, and book properties with a secure and intuitive experience. Built with Node.js, Express, MongoDB, and EJS using an MVC architecture.
 
